@@ -1,2 +1,2 @@
 # x-live-central-repo
-X-Live zentrales Rpository
+X-Live Zentrales Repository
